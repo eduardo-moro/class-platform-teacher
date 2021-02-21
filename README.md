@@ -1,6 +1,15 @@
-# class-platform-teacher
 
-# Getting Started with Create React App
+
+<p align="center">
+  <img
+    alt="Node.js"
+    src="https://miro.medium.com/max/578/0*T_qnjkS2GPw7995A.png"
+    width="400"
+  />
+</p>
+
+
+# class-platform-teacher
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
